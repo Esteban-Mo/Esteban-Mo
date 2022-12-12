@@ -19,7 +19,7 @@
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white&style=plastic) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=plastic) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=plastic) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white&style=plastic) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=plastic)
 
 ##### Framework & Libraries
-![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=plastic) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?logo=angularjs&logoColor=white&style=plastic) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=plastic)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=plastic) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?logo=angular&logoColor=white&style=plastic) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=plastic)
   ![JWT/JSON Web Token](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&style=plastic) ![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=plastic)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?logo=reactivex&logoColor=white&style=plastic) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white&style=plastic)
 
