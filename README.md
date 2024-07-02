@@ -18,12 +18,10 @@
 ![Static Badge](https://img.shields.io/badge/Typescript-black?logo=typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-black?logo=css3&logoColor=white)
-
 ##### Framework & Libraries
 ![Static Badge](https://img.shields.io/badge/Next.Js-black?logo=nextdotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React-black?logo=react&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MUI-black?logo=MUI&logoColor=white)
-
 ##### Databases
 ![Static Badge](https://img.shields.io/badge/Prisma-black?logo=prisma&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=white) 
