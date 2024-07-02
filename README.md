@@ -24,7 +24,7 @@
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?logo=reactivex&logoColor=white&style=plastic) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white&style=plastic)
 
 ##### Databases
-![MongoDB]([https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=plastic](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=plastic)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-blue) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=plastic)
 
 
 ![](https://komarev.com/ghpvc/?username=Esteban-Mo&color=orange)
