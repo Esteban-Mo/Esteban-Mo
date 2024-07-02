@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I develop different personal projects.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at est.mortier@gmail.com I'll try to respond as soon as I can.\
+✉️ &nbsp;You can send me an email at e.mortier@proton.me I'll try to respond as soon as I can.\
 
 ##### My social network
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic)](https://www.linkedin.com/in/esteban-mortier-683b651b8/)
