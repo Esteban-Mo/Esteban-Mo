@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0052FF&height=200&section=header&text=Esteban%20Mortier&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
   ### 🚀 Développeur Fullstack | Passionné d'IA & LLM | Étudiant à l'ESIEA
   **Conception de solutions numériques pour l'industrie Green Tech chez [Valeco](https://www.groupevaleco.com/)**
@@ -39,10 +38,10 @@ Passionné par la convergence entre le **développement Fullstack** et l'**Intel
 ### 🌟 Expériences Marquantes (Valeco)
 
 > **Cartographie de Données Météorologiques** > Développement d'un outil de visualisation de données complexes pour le déploiement stratégique de parcs éoliens.  
-> *Technologies : React, Next.js, Intégration de données géospatiales.*
+> *Technologies : React, Next.js, TypeScript, Intégration de données géospatiales avec Géoserver et leaflet.*
 
 > **Gestion Foncière & Engagements Financiers** > Conception d'une plateforme centralisée gérant les actes de gestion et les engagements financiers pour les actifs solaires et éoliens.  
-> *Technologies : TypeScript, Prisma, PostgreSQL, MUI.*
+> *Technologies : React, Next.js, TypeScript, Prisma, PostgreSQL, MUI.*
 
 ---
 
