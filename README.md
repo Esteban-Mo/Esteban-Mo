@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### 🚀 Développeur Fullstack | Passionné d'IA & LLM | Étudiant à l'ESIEA
+  ### 🚀 Développeur Fullstack | Passionné d'IA & LLM
   **Conception de solutions numériques pour l'industrie Green Tech chez [Valeco](https://www.groupevaleco.com/)**
 
   <p align="center">
