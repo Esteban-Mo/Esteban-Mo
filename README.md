@@ -1,67 +1,72 @@
 <div align="center">
 
-  ### 🚀 Développeur Fullstack | Passionné d'IA & LLM
-  **Conception de solutions numériques pour l'industrie Green Tech chez [Valeco](https://www.groupevaleco.com/)**
+<h2>Esteban Mortier — Développeur Fullstack</h2>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/esteban-mortier-683b651b8/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:e.mortier@proton.me">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<p>
+  Outils métier pour l'industrie Green Tech chez <a href="https://www.groupevaleco.com/">Valeco</a><br />
+  Étudiant ingénieur à l'<strong>ESIEA</strong> — informatique &amp; systèmes d'information
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/esteban-mortier-683b651b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:e.mortier@proton.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-### 📖 À Propos
+## Projets en ligne
 
-Passionné par la convergence entre le **développement Fullstack** et l'**Intelligence Artificielle**, j'évolue actuellement en tant que développeur au sein de **Valeco**. Mon quotidien consiste à transformer des données complexes en outils décisionnels fluides.
+**[js.procours.dev](https://js.procours.dev/)** — Support d'apprentissage du JavaScript et du TypeScript : cours progressifs et mise en pratique directe dans le navigateur.
+`Next.js` `TypeScript`
 
-* 💡 **Focus Actuel :** Exploration des **IA Génératives** pour optimiser les processus d'apprentissage et d'acquisition de connaissances.
-* 🌍 **Impact :** Je travaille sur l'implémentation de solutions techniques pour un service de développement applicatif interne.
-* 🎓 **Cursus :** Étudiant ingénieur à l'**ESIEA**, spécialisé en informatique et systèmes d'information.
+**[prismamcd.com](https://prismamcd.com/)** — Éditeur de modèle conceptuel et logique de données (MCD / MLD) pour Prisma : on modélise visuellement, on récupère un schéma exploitable.
+`Next.js` `TypeScript` `Prisma`
+
+**[gamesoftavern.com](https://gamesoftavern.com/)** — Carnet de table en ligne pour jeux de cartes, de dés et de plateau : scores, compteurs et suivi de partie à plusieurs.
+`Next.js` `TypeScript` `PostgreSQL`
+
+**[totem-app.fr](https://totem-app.fr/)** — Plateforme de gestion et blog pour collectif : administration des contenus et vie du groupe au même endroit.
+`Next.js` `TypeScript` `Prisma` `PostgreSQL`
 
 ---
 
-### 🛠 Compétences Techniques
+## Expérience — Valeco (alternance, 20XX – 20XX)
 
-| Catégorie | Outils & Langages |
+**Cartographie de données météorologiques**
+Outil de visualisation destiné au choix d'implantation des parcs éoliens : superposition de couches géospatiales et lecture de séries de données complexes par les équipes de développement de projets.
+*React · Next.js · TypeScript · GeoServer · Leaflet*
+
+**Gestion foncière et engagements financiers**
+Plateforme centralisant les actes de gestion et les engagements financiers des actifs solaires et éoliens, en remplacement d'un suivi éclaté.
+*React · Next.js · TypeScript · Prisma · PostgreSQL · MUI*
+
+---
+
+## Stack
+
+| | |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Backend & BD** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodesdotjs&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **IA & Soft Skills** | ![GenAI](https://img.shields.io/badge/-IA%20Générative-FF6F61?style=flat-square&logo=openai&logoColor=white) `Résolution de problèmes` `Collaboration d'équipe` `Adaptabilité` |
+| **Frontend** | React, Next.js (App Router), TypeScript, MUI |
+| **Backend** | Node.js, Prisma, PostgreSQL, MySQL |
+| **Autour** | Git, déploiement Vercel, GeoServer / Leaflet pour le géospatial |
+
+En ce moment je regarde du côté des **modèles génératifs appliqués à l'apprentissage** — c'est le fil conducteur de `js.procours.dev`.
 
 ---
 
-### 🌟 Expériences Marquantes (Valeco)
-
-> **Cartographie de Données Météorologiques** > Développement d'un outil de visualisation de données complexes pour le déploiement stratégique de parcs éoliens.  
-> *Technologies : React, Next.js, TypeScript, Intégration de données géospatiales avec Géoserver et leaflet.*
-
-> **Gestion Foncière & Engagements Financiers** > Conception d'une plateforme centralisée gérant les actes de gestion et les engagements financiers pour les actifs solaires et éoliens.  
-> *Technologies : React, Next.js, TypeScript, Prisma, PostgreSQL, MUI.*
-
----
-
-### 📊 Statistiques GitHub
+## GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esteban-Mo&show_icons=true&theme=transparent&hide_border=true&title_color=0052FF&icon_color=0052FF&text_color=555" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban-Mo&layout=compact&theme=transparent&hide_border=true&title_color=0052FF&text_color=555" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Esteban-Mo&show_icons=true&theme=transparent&hide_border=true&title_color=0052FF&icon_color=0052FF&text_color=8b949e" alt="Statistiques GitHub" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esteban-Mo&layout=compact&theme=transparent&hide_border=true&title_color=0052FF&text_color=8b949e" alt="Langages les plus utilisés" />
 </div>
 
 ---
 
-### 🤝 Collaborons ensemble !
-
-Je suis toujours ouvert à discuter de projets innovants, particulièrement ceux mêlant **IA, Éducation et Développement Web**.
-
-* 📫 Me contacter : **e.mortier@proton.me**
-* 💬 Échangeons sur : Next.js, l'IA ou tout autre projet captivant !
-
-<div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=Esteban-Mo&color=0052FF&style=flat-square&label=VUES+DU+PROFIL" />
-</div>
+Ouvert aux échanges sur Next.js, la modélisation de données ou l'IA appliquée à l'éducation — **e.mortier@proton.me**
