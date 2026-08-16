@@ -1,48 +1,27 @@
-<div align="center">
+# Esteban Mortier — Développeur Fullstack
 
-<img src="./assets/banner.svg" alt="Esteban Mortier — Développeur Fullstack" width="100%" />
-
-<p>
-  <a href="https://www.linkedin.com/in/esteban-mortier-683b651b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:e.mortier@proton.me">
-    <img src="https://img.shields.io/badge/e.mortier@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://js.procours.dev/">
-    <img src="https://img.shields.io/badge/js.procours.dev-00C2A8?style=for-the-badge&logo=javascript&logoColor=white" alt="js.procours.dev" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esteban-mortier-683b651b8/)
+[![Email](https://img.shields.io/badge/e.mortier@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:e.mortier@proton.me)
+[![js.procours.dev](https://img.shields.io/badge/js.procours.dev-00C2A8?style=for-the-badge&logo=javascript&logoColor=white)](https://js.procours.dev/)
 
 **Ingénieur informatique (ESIEA)** · Développeur fullstack en CDI chez **[Valeco](https://www.groupevaleco.com/)**
 
 Je construis des outils métier qui transforment des données complexes en décisions prenables.
 
-</div>
-
 ---
 
 ## 🚀 Projets en ligne
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### [js.procours.dev](https://js.procours.dev/)
-
-<a href="https://js.procours.dev/"><img src="./assets/js-procours.png" alt="Aperçu de js.procours.dev" width="100%" /></a>
 
 Support d'apprentissage du JavaScript et du TypeScript : cours progressifs et mise en pratique directe dans le navigateur.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+[![Aperçu de js.procours.dev](./assets/js-procours.png)](https://js.procours.dev/)
 
 ### [prismamcd.com](https://prismamcd.com/)
-
-<a href="https://prismamcd.com/"><img src="./assets/prismamcd.png" alt="Aperçu de prismamcd.com" width="100%" /></a>
 
 Éditeur de modèle conceptuel et logique de données (MCD / MLD) pour Prisma : on modélise visuellement, on récupère un schéma exploitable.
 
@@ -50,14 +29,9 @@ Support d'apprentissage du JavaScript et du TypeScript : cours progressifs et mi
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[![Aperçu de prismamcd.com](./assets/prismamcd.png)](https://prismamcd.com/)
 
 ### [gamesoftavern.com](https://gamesoftavern.com/)
-
-<a href="https://gamesoftavern.com/"><img src="./assets/gamesoftavern.png" alt="Aperçu de gamesoftavern.com" width="100%" /></a>
 
 Carnet de table en ligne pour jeux de cartes, de dés et de plateau : scores, compteurs et suivi de partie à plusieurs.
 
@@ -65,12 +39,9 @@ Carnet de table en ligne pour jeux de cartes, de dés et de plateau : scores, co
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+[![Aperçu de gamesoftavern.com](./assets/gamesoftavern.png)](https://gamesoftavern.com/)
 
 ### [totem-app.fr](https://totem-app.fr/)
-
-<a href="https://totem-app.fr/"><img src="./assets/totem-app.png" alt="Aperçu de totem-app.fr" width="100%" /></a>
 
 Plateforme de gestion et blog pour collectif : administration des contenus et vie du groupe au même endroit.
 
@@ -78,13 +49,11 @@ Plateforme de gestion et blog pour collectif : administration des contenus et vi
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-</td>
-</tr>
-</table>
+[![Aperçu de totem-app.fr](./assets/totem-app.png)](https://totem-app.fr/)
 
 ---
 
-## 🌱 Valeco — Développeur fullstack (CDI, depuis 20XX)
+## 🌱 Valeco — Développeur fullstack (Depuis 2023)
 
 > **Cartographie de données météorologiques**
 >
@@ -102,8 +71,6 @@ Plateforme de gestion et blog pour collectif : administration des contenus et vi
 
 ## 🧰 Stack
 
-<div align="center">
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -118,16 +85,10 @@ Plateforme de gestion et blog pour collectif : administration des contenus et vi
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
-</div>
-
 En ce moment je creuse les **modèles génératifs appliqués à l'apprentissage** — c'est le fil conducteur de [js.procours.dev](https://js.procours.dev/).
 
 ---
 
-<div align="center">
-
 Ouvert aux échanges sur **Next.js**, la **modélisation de données** ou l'**IA appliquée à l'éducation**
 
-[![Email](https://img.shields.io/badge/Écrivez--moi-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:e.mortier@proton.me)
-
-</div>
+[![Écrivez-moi](https://img.shields.io/badge/Écrivez--moi-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:e.mortier@proton.me)
